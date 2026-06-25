@@ -143,3 +143,9 @@ body {
         height: 70vh;
     }
 }
+
+
+.bad-drop {
+  background: #6b7280;
+  border: 3px solid #374151;
+}
